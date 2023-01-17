@@ -1,0 +1,70 @@
+body{
+ min-width: fit-content;
+ flex-wrap:nowrap ;
+
+ 
+}
+
+.headerdiv{
+  display: flex;
+  height: 150px;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center; 
+  
+  flex-wrap: nowrap;
+ 
+ 
+ 
+}
+.africanodysseydiv{
+  font-weight: 700;
+  font-size: 24px;
+  font-family: DM sans; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  white-space: nowrap;
+  margin-right: 30px;
+  margin-left: 60px;
+  padding-left: 80px;
+}
+.a{
+  display: flex;
+}
+.homediv{ 
+  display: flex;
+  flex-direction: row;
+  font-family: DM Sans;
+  font-size:24px;
+  font-weight: 400;  
+  white-space: nowrap;
+  min-width: fit-content;
+  margin-right: 30px;
+}
+.signups{
+  margin-left: 30px;
+  flex: ;
+  align-items: center;
+  margin-right: px;
+  padding-right: 50px;
+}
+.signup{
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 24px;
+  background-color:  #3D4F63;
+  color: white;
+  border-radius: 10px;
+  
+  padding: 10px;
+  
+}
+.odysseybutton{
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 24px;
+  background-color:  #3D4F63;
+  color: white;
+}
+
